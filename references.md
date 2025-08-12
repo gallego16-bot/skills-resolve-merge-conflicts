@@ -1,2 +1,1 @@
-## Conflict title ##
----conflict text---
+
